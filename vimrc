@@ -10,6 +10,8 @@ set ruler
 set number
 set numberwidth=5
 set cmdheight=2
+set scrolloff=5
+
 
 " Text Formatting / Layout "
 set autoindent
