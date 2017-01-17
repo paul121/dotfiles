@@ -23,3 +23,5 @@ set expandtab
 set smarttab
 set smartindent
 
+" Key remapping "
+inoremap <M-Space> <Esc>
