@@ -11,6 +11,9 @@ set number
 set numberwidth=5
 set cmdheight=2
 set scrolloff=5
+ino jj <esc>
+cno jj <c-c>
+vno v <esc>
 
 
 " Text Formatting / Layout "
